@@ -1,0 +1,3 @@
+# Xray VLESS+WS on Render
+UUID=9eba8188-6022-4ce8-8ebc-e7e7771ab6ce
+WS_PATH=/2674825688f4e4a4
